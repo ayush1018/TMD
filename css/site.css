@@ -1,0 +1,14 @@
+.my-navbar{
+  background-color: #FFFFFF;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+.my-carousel{
+  width:100%;
+  max-height: 600px !important;
+}
+.my-btn {
+  color: #fff;
+  background-color: #2B7471;
+  border-color: #ccc;
